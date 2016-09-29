@@ -1,7 +1,7 @@
 ---
 server:
   port: 8011
-  
+  address: 127.0.0.1
 spring:
   application:
     name: eureka
@@ -28,7 +28,7 @@ spring:
     
 server:
   port: 8011
-  
+  address" 127.0.0.1
 eureka:
   client:
     serviceUrl:
@@ -44,7 +44,7 @@ spring:
     
 server:
   port: 8012
-  
+  address: 127.0.0.1
 eureka:
   client:
     serviceUrl:
